@@ -83,3 +83,5 @@ root.mainloop() is a method on the main window which executes when the time trac
 The root window is created using root = Tk(). This is the main application window.  
 
 
+# Team
+This is PYG-28. Papa Nii, Phoebe and Naa are the members of this team
