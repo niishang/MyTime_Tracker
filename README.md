@@ -9,7 +9,7 @@ Input start date
 Input start time
 Input end date
 Input end time
-Calculate the number of hours between start time and end time
+Calculate the number of hours between start time and end time.
 ***how is program going to cater for minutes***
 Calculate the amount per hour
 Store the number of hours and the rate per hour in an excel or csv file
