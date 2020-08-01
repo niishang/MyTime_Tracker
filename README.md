@@ -6,8 +6,11 @@ Problem - Nana wants to know the amount he has earned based on the number of hou
 
 # Algorithm for Time Tracking Program
 Input start date.
+
 Input start time.
+
 Input end date.
+
 Input end time.
 Calculate the number of hours between start time and end time.
 ***how is program going to cater for minutes***.
