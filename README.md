@@ -20,3 +20,9 @@ Tkinter us a module in the python standard library which serves as an interface 
 This provided the GUI for the time tracker application
 We imported csv module which implements classes to read and write tabular data in CSV. to help us save the time tracking info to the csv file
 We imported datetime module to give the date along with time in hours, minutess, seconds and milliseconds.
+
+# Design
+Input  - start date and time, end date and time
+Process - calculate number of hours worked, calculate money earned
+Output - number of hours worked, money earned
+
